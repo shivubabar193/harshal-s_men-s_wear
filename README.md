@@ -13,4 +13,10 @@ Simple look of E-commerce Website
 ![s6](https://user-images.githubusercontent.com/107870323/193666327-f0ab5228-53c6-447d-a488-434fee0a9011.png)
 
                                  #shop Page
+                                 
+
+![s7](https://user-images.githubusercontent.com/107870323/193667133-0604e553-6008-4a89-8966-6bdee2baefa0.png)
+![s8](https://user-images.githubusercontent.com/107870323/193667140-c9d53879-3bf1-4f09-8fc5-268d8ddfa742.png)
+![s9](https://user-images.githubusercontent.com/107870323/193667151-be0be744-15f0-4b7b-8a01-9eaf2008e062.png)
+
 
