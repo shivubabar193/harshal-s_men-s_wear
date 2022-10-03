@@ -264,7 +264,7 @@ p{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("images/Banner/ban1.jpg");
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhHNnBa0HsBG3FioGeUynymCvQkvLpQV-W-tNXxs3Ztd44BvSKW4G2pzS7NmptPBuOMf7fZredupJynAcHnvGe3yboVzM2Gmzru2DYE_SiUHw0Sy5cee0RGeEsAlcENYT7GFpBqYJCZ2Mx5IYtRseFLSrlkpO4GhcOgW1gVsOGXtMjm8IWAJzeVyL_w/s320/ban1.jpg");
     height: 40vh;
     background-size: cover;
     background-position: center;
@@ -297,7 +297,7 @@ p{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("images/Banner/b2.jpg");
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxiSxgJ-tjRI9ekNL4PvoRYW7mDoN12DWwcFr7nzMHDAP4LwObktmNdXCIRKXbDZZyvY0oWNYmpOC_K5Cdz7k9_UOfjAnzBjK2k8ZXtgXEN1kyQ_5bbCPWs8ut-JSRbN5v5nuYxW5Jniv9GEZuLsEcSIUtCZ5UhQ8zXILSfsiV99H7tv3pIh6e90PuhQ/s320/b2.jpg");
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -305,7 +305,7 @@ p{
     padding: 30px;
  }
  #sm-banner .banner-box2{
-    background-image: url("images/Banner/b4.jpeg");
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQAOqVUEdRc7fZ61k9pgS7VEoOlR8ID3AlR_j2p8wWBWjjNG5LSa56o2ctmsQNK4lB9lA3CgysToDMUPXLFPpGE6OYRdRR7xuINh8amQXf4OJVsvLGK6jc8QDgUwgVLq26RwAiF6BXj72fIkKhTPTibPsseZNKWn6xMxuAr09_ohNerzt1__FNMU08w/s320/b4.jpeg");
  }
  #sm-banner h4{
     color: #fff;
@@ -350,10 +350,10 @@ p{
  }
 
  #banner3 .banner-box2{
-    background-image: url("images/Banner/b3.jpg");
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi647klO2D_Qh8FRmXxTszRQ15Z7eaWOvoMEIZUMBcAstRF0X2BikuPGnj3VssA2CDYECpLgMiJ7zgIBh9YUJZcIMA0XwUxKlBQip6mFILgoweYx5o4Nv6cLB5U0nGK-DVx2V1QKen1p2k0GjWm3ed2hxjBGecv514ibtl6AEfEuMe7jmCsOnk1c70_Pw/s320/b3.jpg");
  }
  #banner3 .banner-box3{
-    background-image: url("images/Banner/b1.jpg");
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOPqD8D0qnJVygpJdSLYmtFm4NL-HH4J60286DqoaY8jNceuSyi2LgWT7DDugKvXpxHKkto80MIXA8bwfjm4TdCppxu-XjxigKgqvUHF-RdBytFyI4adnkZhNmoknDCad1uOTtJx3noO04wEwpoSvdFg3PBmDht4WInfWOE4-L8tAtOZFSIsJ4ayGAqA/s320/b1.jpg");
  }
  #banner3 h2{
     color: #fff;
@@ -371,7 +371,7 @@ p{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("images/Banner/b9.jpg");
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG0aUjZpN7lU5xGUBCmgA_jC_QcYHxg9TK8Snrqf9fT3KMCWJ3X3mq8OxNL_tDXcBtQ2hXPAmktQySn5Lt48a4O4ut5g8VX2Yk36l7eB7te0oSOw8Huuz3x-XuBEytRZyGcnxLwAEPYepZpvtiPQH8t3F_zWIq-URVRu8f6dydkWiV0Yt_xnQrBoXQyw/s320/b9.jpg");
     background-repeat: no-repeat;
     background-position: 100px;
     background-color: #041e42;
@@ -474,7 +474,7 @@ p{
 
  /* Shop Page */
  #page-header{
-   background-image: url(images/Banner/b13.jpeg);
+   background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT_yUhvgwmjOeJ3U_GpQ779gDCFepGPZznkDgFUz6V0JbNw6ZNc46DqJdxdqIdSVsCesi1OKSs0XXcqBDiU0DgNDgzlR-YhH7Cyb_r8GCb5QAx3w_8bFy4ErLb2WMWTBBC9ebkM03UI294EQ0UhF_mFU7-9YlY75DzJ2g0xVBevFWsPab_POFcqMD0kw/s320/b13.jpeg");
    width: 100%;
    height: 65vh;
    display: flex;
@@ -570,7 +570,7 @@ p{
  /* About page */
 
  #page-header.about-header{
-   background-image: url("images/Banner/ban2.jpg");
+   background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhonf1h87YLCh7GXlsOVfUblqwjkjo7eMhouYbaJEm8gEqeCN7oC8ioKaf5rHixePl2Rk5JbK0SEvA35Al1AKYYE45rytQk4Fm9_nDrOzDSynnfKJF6Q10B4W9oDsZB0KQUzsKS8Z-WWE6yXFdM2DWqKNzcoJMQP0JosTScmOr3R5tQvHN6bn4S_x6AmQ/s320/ban2.jpg");
 
  }
  #page-header.about-header h2{
