@@ -1,5 +1,5 @@
 # harshal-s_men-s_wear
-E - commerce website for cloth center
+E - commerce website for cloth store.
 
 Website Link:- https://shivubabar193.github.io/harshal-s_men-s_wear/
 
